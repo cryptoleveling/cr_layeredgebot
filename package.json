@@ -1,0 +1,22 @@
+{
+  "name": "crypto-leveling",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "layeredge.js",
+  "scripts": {
+    "start": "node layeredge.js",
+    "telegram": "node tel_layeredge.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.11.1",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^7.0.4",
+    "inquirer": "^9.2.16",
+    "node-telegram-bot-api": "^0.66.0",
+    "path": "^0.12.7",
+    "url": "^0.11.3"
+  }
+}
