@@ -1,2 +1,2 @@
-export const TOKEN = "8156041380:AAHSDGh5SgXt_UkRYe_dJZYFmj9ncNfOWLc"; // توکنت رو اینجا بذار
-export const REF_CODE = "6WpzPbZb";
+export const TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE";
+export const REF_CODE = "YOUR_REFERRAL_CODE_HERE";
